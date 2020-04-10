@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="HackerRank" Database="" Version="10.0.0">
+  <Project Name="Staircase" Path="Staircase/Staircase.project" Active="No"/>
+  <Project Name="MaxSumMinSum" Path="MaxSumMinSum/MaxSumMinSum.project" Active="No"/>
+  <Project Name="BirthdayCandles" Path="BirthdayCandles/BirthdayCandles.project" Active="No"/>
+  <Project Name="Time1" Path="Time1/Time1.project" Active="No"/>
+  <Project Name="GradingStudents" Path="GradingStudents/GradingStudents.project" Active="No"/>
+  <Project Name="ApplesOrranges" Path="ApplesOrranges/ApplesOrranges.project" Active="No"/>
+  <Project Name="Kangarooo" Path="Kangarooo/Kangarooo.project" Active="No"/>
+  <Project Name="BetweenTwoSets" Path="BetweenTwoSets/BetweenTwoSets.project" Active="No"/>
+  <Project Name="BreakingTheRecords" Path="BreakingTheRecords/BreakingTheRecords.project" Active="No"/>
+  <Project Name="DivisibleSumPairs" Path="DivisibleSumPairs/DivisibleSumPairs.project" Active="No"/>
+  <Project Name="MigratoryBirds" Path="MigratoryBirds/MigratoryBirds.project" Active="No"/>
+  <Project Name="TheBirthdayBar" Path="TheBirthdayBar/TheBirthdayBar.project" Active="No"/>
+  <Project Name="DayOfTheProgrammer" Path="DayOfTheProgrammer/DayOfTheProgrammer.project" Active="No"/>
+  <Project Name="MinimumDistances" Path="MinimumDistances/MinimumDistances.project" Active="No"/>
+  <Project Name="SockMerchant" Path="SockMerchant/SockMerchant.project" Active="No"/>
+  <Project Name="CountingValley" Path="CountingValley/CountingValley.project" Active="No"/>
+  <Project Name="CatAndAMouse" Path="CatAndAMouse/CatAndAMouse.project" Active="No"/>
+  <Project Name="TheHurdleRace" Path="TheHurdleRace/TheHurdleRace.project" Active="No"/>
+  <Project Name="ElectronicsShop" Path="ElectronicsShop/ElectronicsShop.project" Active="No"/>
+  <Project Name="UtopianTree" Path="UtopianTree/UtopianTree.project" Active="No"/>
+  <Project Name="ExtraLongFactorial" Path="ExtraLongFactorial/ExtraLongFactorial.project" Active="No"/>
+  <Project Name="DesignerPdfViewer" Path="DesignerPdfViewer/DesignerPdfViewer.project" Active="No"/>
+  <Project Name="DrawingBook" Path="DrawingBook/DrawingBook.project" Active="No"/>
+  <Project Name="ModifiedKaprekarNumbers" Path="ModifiedKaprekarNumbers/ModifiedKaprekarNumbers.project" Active="No"/>
+  <Project Name="SaveThePrisoner" Path="SaveThePrisoner/SaveThePrisoner.project" Active="No"/>
+  <Project Name="ClimbingTheLeaderboard" Path="ClimbingTheLeaderboard/ClimbingTheLeaderboard.project" Active="No"/>
+  <Project Name="LibraryFine" Path="LibraryFine/LibraryFine.project" Active="No"/>
+  <Project Name="ChocalteFeast" Path="ChocalteFeast/ChocalteFeast.project" Active="No"/>
+  <Project Name="FormingAMagicSquare" Path="FormingAMagicSquare/FormingAMagicSquare.project" Active="No"/>
+  <Project Name="BeautifulDayAtTheMovies" Path="BeautifulDayAtTheMovies/BeautifulDayAtTheMovies.project" Active="No"/>
+  <Project Name="JumpingOnTheClouds" Path="JumpingOnTheClouds/JumpingOnTheClouds.project" Active="No"/>
+  <Project Name="CutTheSticks" Path="CutTheSticks/CutTheSticks.project" Active="No"/>
+  <Project Name="ArraysDS" Path="ArraysDS/ArraysDS.project" Active="No"/>
+  <Project Name="2DArrayDS" Path="2DArrayDS/2DArrayDS.project" Active="No"/>
+  <Project Name="DynamicArray" Path="DynamicArray/DynamicArray.project" Active="No"/>
+  <Project Name="SparseArrays" Path="SparseArrays/SparseArrays.project" Active="No"/>
+  <Project Name="SequenceEquation" Path="SequenceEquation/SequenceEquation.project" Active="No"/>
+  <Project Name="EquaizingTheArray" Path="EquaizingTheArray/EquaizingTheArray.project" Active="No"/>
+  <Project Name="CavityMap" Path="CavityMap/CavityMap.project" Active="No"/>
+  <Project Name="TheTimeInWords" Path="TheTimeInWords/TheTimeInWords.project" Active="No"/>
+  <Project Name="VariableSizedArray" Path="VariableSizedArray/VariableSizedArray.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Staircase" ConfigName="Debug"/>
+      <Project Name="MaxSumMinSum" ConfigName="Debug"/>
+      <Project Name="BirthdayCandles" ConfigName="Debug"/>
+      <Project Name="Time1" ConfigName="Debug"/>
+      <Project Name="GradingStudents" ConfigName="Debug"/>
+      <Project Name="ApplesOrranges" ConfigName="Debug"/>
+      <Project Name="Kangarooo" ConfigName="Debug"/>
+      <Project Name="BetweenTwoSets" ConfigName="Debug"/>
+      <Project Name="BreakingTheRecords" ConfigName="Debug"/>
+      <Project Name="DivisibleSumPairs" ConfigName="Debug"/>
+      <Project Name="MigratoryBirds" ConfigName="Debug"/>
+      <Project Name="TheBirthdayBar" ConfigName="Debug"/>
+      <Project Name="DayOfTheProgrammer" ConfigName="Debug"/>
+      <Project Name="MinimumDistances" ConfigName="Debug"/>
+      <Project Name="SockMerchant" ConfigName="Debug"/>
+      <Project Name="CountingValley" ConfigName="Debug"/>
+      <Project Name="CatAndAMouse" ConfigName="Debug"/>
+      <Project Name="TheHurdleRace" ConfigName="Debug"/>
+      <Project Name="ElectronicsShop" ConfigName="Debug"/>
+      <Project Name="UtopianTree" ConfigName="Debug"/>
+      <Project Name="ExtraLongFactorial" ConfigName="Debug"/>
+      <Project Name="DesignerPdfViewer" ConfigName="Debug"/>
+      <Project Name="DrawingBook" ConfigName="Debug"/>
+      <Project Name="ModifiedKaprekarNumbers" ConfigName="Debug"/>
+      <Project Name="SaveThePrisoner" ConfigName="Debug"/>
+      <Project Name="ClimbingTheLeaderboard" ConfigName="Debug"/>
+      <Project Name="LibraryFine" ConfigName="Debug"/>
+      <Project Name="ChocalteFeast" ConfigName="Debug"/>
+      <Project Name="FormingAMagicSquare" ConfigName="Debug"/>
+      <Project Name="BeautifulDayAtTheMovies" ConfigName="Debug"/>
+      <Project Name="JumpingOnTheClouds" ConfigName="Debug"/>
+      <Project Name="CutTheSticks" ConfigName="Debug"/>
+      <Project Name="ArraysDS" ConfigName="Debug"/>
+      <Project Name="2DArrayDS" ConfigName="Debug"/>
+      <Project Name="DynamicArray" ConfigName="Debug"/>
+      <Project Name="SparseArrays" ConfigName="Debug"/>
+      <Project Name="SequenceEquation" ConfigName="Debug"/>
+      <Project Name="EquaizingTheArray" ConfigName="Debug"/>
+      <Project Name="CavityMap" ConfigName="Debug"/>
+      <Project Name="TheTimeInWords" ConfigName="Debug"/>
+      <Project Name="VariableSizedArray" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Staircase" ConfigName="Release"/>
+      <Project Name="MaxSumMinSum" ConfigName="Release"/>
+      <Project Name="BirthdayCandles" ConfigName="Release"/>
+      <Project Name="Time1" ConfigName="Release"/>
+      <Project Name="GradingStudents" ConfigName="Release"/>
+      <Project Name="ApplesOrranges" ConfigName="Release"/>
+      <Project Name="Kangarooo" ConfigName="Release"/>
+      <Project Name="BetweenTwoSets" ConfigName="Release"/>
+      <Project Name="BreakingTheRecords" ConfigName="Release"/>
+      <Project Name="DivisibleSumPairs" ConfigName="Release"/>
+      <Project Name="MigratoryBirds" ConfigName="Release"/>
+      <Project Name="TheBirthdayBar" ConfigName="Release"/>
+      <Project Name="DayOfTheProgrammer" ConfigName="Release"/>
+      <Project Name="MinimumDistances" ConfigName="Release"/>
+      <Project Name="SockMerchant" ConfigName="Release"/>
+      <Project Name="CountingValley" ConfigName="Release"/>
+      <Project Name="CatAndAMouse" ConfigName="Release"/>
+      <Project Name="TheHurdleRace" ConfigName="Release"/>
+      <Project Name="ElectronicsShop" ConfigName="Release"/>
+      <Project Name="UtopianTree" ConfigName="Release"/>
+      <Project Name="ExtraLongFactorial" ConfigName="Release"/>
+      <Project Name="DesignerPdfViewer" ConfigName="Release"/>
+      <Project Name="DrawingBook" ConfigName="Release"/>
+      <Project Name="ModifiedKaprekarNumbers" ConfigName="Release"/>
+      <Project Name="SaveThePrisoner" ConfigName="Release"/>
+      <Project Name="ClimbingTheLeaderboard" ConfigName="Release"/>
+      <Project Name="LibraryFine" ConfigName="Release"/>
+      <Project Name="ChocalteFeast" ConfigName="Release"/>
+      <Project Name="FormingAMagicSquare" ConfigName="Release"/>
+      <Project Name="BeautifulDayAtTheMovies" ConfigName="Release"/>
+      <Project Name="JumpingOnTheClouds" ConfigName="Release"/>
+      <Project Name="CutTheSticks" ConfigName="Release"/>
+      <Project Name="ArraysDS" ConfigName="Release"/>
+      <Project Name="2DArrayDS" ConfigName="Release"/>
+      <Project Name="DynamicArray" ConfigName="Release"/>
+      <Project Name="SparseArrays" ConfigName="Release"/>
+      <Project Name="SequenceEquation" ConfigName="Release"/>
+      <Project Name="EquaizingTheArray" ConfigName="Release"/>
+      <Project Name="CavityMap" ConfigName="Release"/>
+      <Project Name="TheTimeInWords" ConfigName="Release"/>
+      <Project Name="VariableSizedArray" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
